@@ -1,6 +1,6 @@
 # Programming Assignment 3
 
-Class: CS 4204 (Computer Graphics), Fall 2023
+Class: CS 4204 (Computer Graphics), Fall 2024
 
 Professor: Brendan David-John
 
